@@ -26,5 +26,5 @@ chmod +x check_url.sh
 ```
 Run the script for a single URL: You can provide a URL directly when running the script:
 ```bash
-./check_url.sh https://www.example.com
+./check_url.sh https://www.google.com
 ```
