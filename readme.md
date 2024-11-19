@@ -22,9 +22,9 @@ Clone or download the script: Download the check_url.sh script to your system.
 
 Make the script executable: You need to give execute permissions to the script before using it. Run:
 ```bash
-chmod +x check_url.sh
+chmod +x check_url_validity.sh
 ```
 Run the script for a single URL: You can provide a URL directly when running the script:
 ```bash
-./check_url.sh https://www.google.com
+./check_url_validity.sh https://www.google.com
 ```
